@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+
+}
+    
+.page-wrapper{
+  
+    background-color: grey;
+    background-attachment: fixed;
+
+}
+h1{ 
+    text-align: center;
+}
+img{
+    height: 75vh;
+    width:67%;
+    margin-left: 225px;   
+}
+.center{
+    margin-left: 400px;
+    margin-top: 50px;
+}
+.bottom{
+    margin-left: 270px;
+}
